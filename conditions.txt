@@ -1,0 +1,22 @@
+				Conditions 
+
+1-username to consist of letters and numbers.
+2-password contain a capital letter and a number.
+ 3-name and password to be 6 to 20 characters.
+4- after three incorrect passwords   to block the account.
+5-one user by only one computer
+6-after a successful login automatically in section Daily.
+7-To message appears when changing or repealing lesson.
+8-  notification for new homework
+9-Dating notification 10 minutes before the lesson.
+11-10-seamless entry and leave in system during the lesson.
+12-can`t be open two lesson.
+13-to record part of the lesson from students.
+14-uploading to 10mb file.
+15-Total uploading to 512MB per user.
+16-in case of the state automatic change of time and adaptation of lessons.
+17-smooth work with all languages.
+18-6 months without log in freezing of the account.
+19-receiving an email announcing the forthcoming exercise.
+20-get protection e-mail at entrance of another II or wrong password.
+21-one year without login deletion of the account.
